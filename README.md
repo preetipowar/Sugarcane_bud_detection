@@ -1,4 +1,4 @@
-# Sugarcane Bud Detection System
+# Sugarcane Bud Detection and Semi Automatic Planting System
 
 A computer vision system designed to detect sugarcane buds for automated planting systems.
 
