@@ -1,6 +1,6 @@
 # Sugarcane Bud Detection and Semi Automatic Planting System
 
-A computer vision system designed to detect sugarcane buds for automated planting systems.
+A computer vision system designed to detect sugarcane buds for planting systems.
 
 ## Overview
 This project uses a trained deep learning model to detect viable sugarcane buds through a webcam feed and assists automated planting.
